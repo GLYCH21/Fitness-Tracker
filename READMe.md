@@ -87,57 +87,52 @@ This project follows a modular structure, separating logic, UI components, and r
 
 ### 🖥️ Main Interface with Table
 ![Main Interface](./assets/for md/main-window.png)
-![Main Interface](https://raw.githubusercontent.com/sample/my-system/master/assets/for%20md/main-window.png)
 
 
 ### 👤 User Profile Interaction
 ![User Dropdown](./assets/for md/user-profile.png)
-![User Dropdown](https://raw.githubusercontent.com/sample/my-system/master/assets/for%20md/user-profile.png)
 
 
 ### 🔢 Status Bar
 ![Status Bar](./assets/for md/statusbar.png)
-![Status Bar](https://raw.githubusercontent.com/sample/my-system/master/assets/for%20md/statusbar.png)
 
 
 ### 🧾 Entry Form (Add Time Base)
 ![Entry Form](./assets/for md/add-time-form.png)
-![Entry Form](https://raw.githubusercontent.com/sample/my-system/master/assets/for%20md/add-time-form.png)
 
 
 ### 🧾 Entry Form (Add Time Base)
 ![Entry Form](./assets/for md/add-time-form.png)
-![Entry Form](https://raw.githubusercontent.com/sample/my-system/master/assets/for%20md/add-time-form.png)
 
 
 ### 🧾 Entry Form (Add Reps/Sets Base)
 ![Entry Form](./assets/for md/add-reps-form.png)
-![Entry Form](https://raw.githubusercontent.com/sample/my-system/master/assets/for%20md/add-reps-form.png)
 
 
 ### ✏️ Update/Modify mode
 ![Entry Form](./assets/for md/modify.png)
-![Entry Form](https://raw.githubusercontent.com/sample/my-system/master/assets/for%20md/modify.png)
 
 
 ### 🧾 Modify Form
 ![Entry Form](./assets/for md/modify-form.png)
-![Entry Form](https://raw.githubusercontent.com/sample/my-system/master/assets/for%20md/modify-form.png)
 
 
 ### 🗑️ Delete Mode
 ![Entry Form](./assets/for md/delete.png)
-![Entry Form](https://raw.githubusercontent.com/sample/my-system/master/assets/for%20md/delete.png)
 
 
 ### 🗑️ Delete Prompt
 ![Entry Form](./assets/for md/delete-prompt.png)
-![Entry Form](https://raw.githubusercontent.com/sample/my-system/master/assets/for%20md/delete-prompt.png)
 
 ---
 
 ## 🚀 How to Run the Program
 
 1. Make sure Python 3.11 is installed.
-2. Open your project folder in an IDE or terminal.
-3. Run the main file using: python main.py
+2. Pull or download this git repository
+3. Open terminal in project root folder
+   1. For **missing .venv** type:
+      1. python -m venv .venv
+      2. .venv\Scripts\activate
+   2. type: pip install PyQt6
+4. Run the main file using: python main.py
