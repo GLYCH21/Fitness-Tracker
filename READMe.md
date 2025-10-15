@@ -87,42 +87,52 @@ This project follows a modular structure, separating logic, UI components, and r
 
 ### 🖥️ Main Interface with Table
 ![Main Interface](./assets/for md/main-window.png)
+![Main Interface](https://raw.githubusercontent.com/sample/my-system/master/assets/for%20md/main-window.png)
 
 
 ### 👤 User Profile Interaction
 ![User Dropdown](./assets/for md/user-profile.png)
+![User Dropdown](https://raw.githubusercontent.com/sample/my-system/master/assets/for%20md/user-profile.png)
 
 
 ### 🔢 Status Bar
 ![Status Bar](./assets/for md/statusbar.png)
+![Status Bar](https://raw.githubusercontent.com/sample/my-system/master/assets/for%20md/statusbar.png)
 
 
 ### 🧾 Entry Form (Add Time Base)
 ![Entry Form](./assets/for md/add-time-form.png)
+![Entry Form](https://raw.githubusercontent.com/sample/my-system/master/assets/for%20md/add-time-form.png)
 
 
 ### 🧾 Entry Form (Add Time Base)
 ![Entry Form](./assets/for md/add-time-form.png)
+![Entry Form](https://raw.githubusercontent.com/sample/my-system/master/assets/for%20md/add-time-form.png)
 
 
 ### 🧾 Entry Form (Add Reps/Sets Base)
 ![Entry Form](./assets/for md/add-reps-form.png)
+![Entry Form](https://raw.githubusercontent.com/sample/my-system/master/assets/for%20md/add-reps-form.png)
 
 
 ### ✏️ Update/Modify mode
 ![Entry Form](./assets/for md/modify.png)
+![Entry Form](https://raw.githubusercontent.com/sample/my-system/master/assets/for%20md/modify.png)
 
 
 ### 🧾 Modify Form
 ![Entry Form](./assets/for md/modify-form.png)
+![Entry Form](https://raw.githubusercontent.com/sample/my-system/master/assets/for%20md/modify-form.png)
 
 
 ### 🗑️ Delete Mode
 ![Entry Form](./assets/for md/delete.png)
+![Entry Form](https://raw.githubusercontent.com/sample/my-system/master/assets/for%20md/delete.png)
 
 
 ### 🗑️ Delete Prompt
 ![Entry Form](./assets/for md/delete-prompt.png)
+![Entry Form](https://raw.githubusercontent.com/sample/my-system/master/assets/for%20md/delete-prompt.png)
 
 ---
 
